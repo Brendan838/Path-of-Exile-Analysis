@@ -30,8 +30,8 @@ Data Sources and Collection Methods.
 
 - Link to poe.ninja data dumps page: https://poe.ninja/data
 - Link to the steam charts page for Path of Exile player counts: https://steamcharts.com/app/238960
-- Link to the steam API documentation that the steam charts webpage uses: https://steamcommunity.com/dev
+- Link to the real world stock/currency API documentation for real world comparison examples: https://www.alphavantage.co/documentation/
 
 Rough Breakdown of Tasks:
 -------------------------
-    Tasks for each member are still being solidified, but Lance is handling Steam Charts/Steam API, Jacob is focusing on presentation material/analyses, and data analysis programming in general is being looked into by Brendan/Sam/Dylan. Again, roles are still being solidified but that is our current overview.
+    Tasks for each member are still being solidified, but Lance is handling the real world currency/stock API, Jacob is focusing on presentation material/analyses, and data analysis programming in general is being looked into by Brendan/Sam/Dylan. Again, roles are still being solidified but that is our current overview.
