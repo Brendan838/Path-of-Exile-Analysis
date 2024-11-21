@@ -27,9 +27,9 @@ Our data analysis provided in this presentation can be shown in the following no
 ## Instructions
 
 - **Data Sources**:
-  - CSV files from [poe.ninja](https://poe.ninja/data) are stored in the `Resources` folder.
+  - CSV files from [poe.ninja](https://poe.ninja/data) are stored in the `resources` folder.
   - NOTE: The files needed for `items.ipynb`  was too large to upload to github. Please download [here](https://poe.ninja/api/data/getdump?name=Necropolis) and add `Necroplis.items.csv` to the resources folder before running the `items.ipynb` notebook.
-  -Obtain API Key (no registration required) from [Alpha Vantage](https://www.alphavantage.co/) and add key to `config.py`
+  - Obtain API Key (no registration required) from [Alpha Vantage](https://www.alphavantage.co/) and add key to `config.py`
   
 ## Authors
 
